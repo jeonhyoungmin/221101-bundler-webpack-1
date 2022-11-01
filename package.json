@@ -1,0 +1,25 @@
+{
+  "name": "221101-bundler-webpack-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeonhyoungmin/221101-bundler-webpack-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeonhyoungmin/221101-bundler-webpack-1/issues"
+  },
+  "homepage": "https://github.com/jeonhyoungmin/221101-bundler-webpack-1#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
